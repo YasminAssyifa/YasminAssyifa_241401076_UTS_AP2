@@ -5,7 +5,7 @@ int main()
 {
     string daftar;
     int total;
-    bool buku = false;
+    bool buku;
 
     system("CLS");
     cout<<"Masukkan daftarjudul Buku: "; getline(cin, daftar);
